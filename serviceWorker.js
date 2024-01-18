@@ -1,10 +1,9 @@
-const staticInePhlypo = "ine-phlypo-site-v1.1";
+const staticInePhlypo = "ine-phlypo-site-v1.2";
 const assets = [
   "/",
   "/index.html",
   "/app.js",
-  "/assets/ny_ine_zw.jpg",
-  "/vendor/bootstrap/css/bootstrap.min.css",
+  "/assets/ine_bw.jpg",
   "/favicon-16x16.png",
   "/favicon-32x32.png",
   "/apple-touch-icon.png",
