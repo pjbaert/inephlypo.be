@@ -1,4 +1,4 @@
-const staticInePhlypo = "ine-phlypo-site-v1.2";
+const staticInePhlypo = "ine-phlypo-site-v2.0";
 const assets = [
   "/",
   "/index.html",
